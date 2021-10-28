@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="png_show">
+    <file>image/background.png</file>
+  </qresource>
+  <qresource prefix="about">
+    <file>image/test.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>image/logo.png</file>
+  </qresource>
+</RCC>
