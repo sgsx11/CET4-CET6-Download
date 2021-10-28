@@ -88,8 +88,10 @@ class Ui_MainWindow(object):
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(MainWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 600, 21))
+        self.menubar.setMinimumSize(QtCore.QSize(600, 21))
+        self.menubar.setMaximumSize(QtCore.QSize(600, 21))
         self.menubar.setStyleSheet("font: 8pt \"微软雅黑\";\n"
-"background-color: rgb(217, 255, 254);\n"
+"\n"
 "\n"
 "\n"
 "")
