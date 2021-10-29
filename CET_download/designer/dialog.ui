@@ -125,7 +125,7 @@ background-color: rgba(255, 255, 255, 150);</string>
   <widget class="QWidget" name="widget_2" native="true">
    <property name="geometry">
     <rect>
-     <x>180</x>
+     <x>150</x>
      <y>110</y>
      <width>111</width>
      <height>51</height>

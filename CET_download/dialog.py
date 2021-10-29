@@ -50,7 +50,7 @@ class Ui_Dialog(object):
         self.label_6.setFont(font)
         self.label_6.setObjectName("label_6")
         self.widget_2 = QtWidgets.QWidget(Dialog)
-        self.widget_2.setGeometry(QtCore.QRect(180, 110, 111, 51))
+        self.widget_2.setGeometry(QtCore.QRect(150, 110, 111, 51))
         self.widget_2.setStyleSheet("border-image: url(:/logo/image/logo.png);")
         self.widget_2.setObjectName("widget_2")
 
