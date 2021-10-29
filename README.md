@@ -7,5 +7,6 @@
 
 &emsp;&emsp;下载releases中的.exe文件运行即可。目前仅支持windows64位系统使用
 
-![139258622-faccbeec-6703-4d3a-8963-a5d33aeebe01](https://user-images.githubusercontent.com/93324578/139281873-4c3679cb-412f-4f99-832b-6602297b6fc2.png)
+![view](https://user-images.githubusercontent.com/93324578/139456742-344bee50-ba3b-418d-871b-8827a3aff7fe.png)
+
 
