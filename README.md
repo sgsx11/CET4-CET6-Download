@@ -7,7 +7,8 @@
 
 &emsp;&emsp;下载releases中的.exe文件运行即可。目前仅支持windows64位系统使用
 &emsp;&emsp;V1.2:
-<img width="311" alt="QQ浏览器截图20211030112651" src="https://user-images.githubusercontent.com/93324578/139518773-b3557d3c-0438-494f-84cb-738c85d7bf31.png">
+<img width="311" alt="view1" src="https://user-images.githubusercontent.com/93324578/139518797-eba9ce4f-3483-48a6-8312-55b278847fd9.png">
+
 &emsp;&emsp;V1.1:
 ![view](https://user-images.githubusercontent.com/93324578/139456742-344bee50-ba3b-418d-871b-8827a3aff7fe.png)
 
