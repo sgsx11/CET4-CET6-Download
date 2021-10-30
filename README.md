@@ -10,6 +10,7 @@
 <img width="311" alt="view1" src="https://user-images.githubusercontent.com/93324578/139518797-eba9ce4f-3483-48a6-8312-55b278847fd9.png">
 
 &emsp;&emsp;V1.1:
-![view](https://user-images.githubusercontent.com/93324578/139456742-344bee50-ba3b-418d-871b-8827a3aff7fe.png)
+![139258622-faccbeec-6703-4d3a-8963-a5d33aeebe01](https://user-images.githubusercontent.com/93324578/139518832-1a615b62-04aa-4e3e-9aac-fb955c646b09.png)
+
 
 
