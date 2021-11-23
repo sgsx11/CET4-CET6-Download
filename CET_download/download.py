@@ -153,6 +153,6 @@ class Ui_MainWindow(object):
         self.label_6.setText(_translate("MainWindow", "资源来自："))
         self.label_5.setText(_translate("MainWindow", "联系方式：1287997451@qq.com"))
         self.label_4.setText(_translate("MainWindow", "作者： sgsx"))
-        self.label_3.setText(_translate("MainWindow", "版本 1.2.0 - 2021年10月"))
+        self.label_3.setText(_translate("MainWindow", "版本 1.3.0 - 2021年11月"))
         self.about.setText(_translate("MainWindow", "详细信息"))
 import png_show_rc
